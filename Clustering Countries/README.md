@@ -71,7 +71,7 @@ These maps provide intuitive, visual insight into the global economic conditions
 ## 🏆 Silhouette Score Comparison
 All models are scored using **Silhouette metrics**, and results are visualized in a comparison bar chart.
 
-![Silhouette Score Comparison](silhouette_comparison.png)
+![Silhouette Score Comparison](https://github.com/uksipahioglu/Clustering-Countries-by-Funding-Status/blob/main/Clustering%20Countries/Plot.png)
 
 * **Higher score** → Better cluster separation.
 * This metric helps identify the most meaningful algorithm for this specific dataset.
