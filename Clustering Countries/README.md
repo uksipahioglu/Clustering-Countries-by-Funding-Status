@@ -69,7 +69,8 @@ Every clustering model is visualized on an interactive world map. The colors rep
 These maps provide intuitive, visual insight into the global economic conditions.
 ### 1. K-Means Clustering
 
-![K-Means Plot](Clustering%20Countries/kmeansplot.png)
+![K-Means Plot](https://github.com/uksipahioglu/Clustering-Countries-by-Funding-Status/blob/main/Clustering%20Countries/kmeansplot.png)
+
 
 
 
@@ -78,7 +79,7 @@ These maps provide intuitive, visual insight into the global economic conditions
 
 ### 2. Agglomerative Hierarchical Clustering
 
-![Agglomerative Clustering Plot](Clustering%20Countries/Aggplot.png)
+![Agglomerative Clustering Plot](https://github.com/uksipahioglu/Clustering-Countries-by-Funding-Status/blob/main/Clustering%20Countries/Aggplot.png)
 
 
 
@@ -89,7 +90,7 @@ Explore the map interactively:
 
 ### 3. DBSCAN (Density-Based Spatial Clustering)
 
-![DBSCAN Clustering Plot](Clustering%20Countries/dbscanplot.png)
+![DBSCAN Clustering Plot](https://github.com/uksipahioglu/Clustering-Countries-by-Funding-Status/blob/main/Clustering%20Countries/dbscanplot.png)
 
 
 
@@ -100,7 +101,7 @@ Explore the map interactively:
 
 ### 4. HDBSCAN (Hierarchical DBSCAN)
 
-![HDBSCAN Clustering Plot](Clustering%20Countries/hdbscanplot.png)
+![HDBSCAN Clustering Plot](https://github.com/uksipahioglu/Clustering-Countries-by-Funding-Status/blob/main/Clustering%20Countries/hdbscanplot.png)
 
 
 
