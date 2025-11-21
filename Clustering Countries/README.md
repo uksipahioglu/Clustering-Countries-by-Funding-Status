@@ -73,6 +73,10 @@ All models are scored using **Silhouette metrics**, and results are visualized i
 
 ![Silhouette Score Comparison](https://github.com/uksipahioglu/Clustering-Countries-by-Funding-Status/blob/main/Clustering%20Countries/Plot.png)
 
+
+
+
+
 * **Higher score** → Better cluster separation.
 * This metric helps identify the most meaningful algorithm for this specific dataset.
 
