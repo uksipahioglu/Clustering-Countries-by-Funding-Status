@@ -6,7 +6,6 @@ This project applies multiple unsupervised learning algorithms to the Country De
 The analysis includes preprocessing, visualization, dimensionality reduction, clustering, and global mapping.
 
 ## 📌 Project Objectives
-📌 Project Objectives
 
 **Explore the dataset with histograms and correlation analysis**
 * **Normalize numeric features using MinMaxScaler**
@@ -52,6 +51,7 @@ The dataset includes key macro-economic indicators. Each country is represented 
 The following algorithms were trained and compared to find the best fit:
 
 | Model | Notes |
+|---|---|
 | **KMeans** | Baseline model, determined 3 optimal clusters. |
 | **Agglomerative** | Hierarchical clustering approach. |
 | **DBSCAN** | Density-based model capable of detecting noise/outliers. |
@@ -93,11 +93,12 @@ All models are scored using **Silhouette metrics**, and results are visualized i
     python Clustering_Countries_by_Funding_Status.py
     ```
 
-📬 Contact
+## 📬 Contact
 
-Author: Umut Kıvanç Sipahioğlu
-Kaggle: https://www.kaggle.com/umutkvansipahiolu
-LinkedIn: https://www.linkedin.com/in/umut-kıvanc-sipahioğlu-410251237/
+**Author:** Umut Kıvanç Sipahioğlu
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umut-kıvanc-sipahioğlu-410251237/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/umutkvansipahiolu)
 
 
 
