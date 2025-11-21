@@ -67,11 +67,46 @@ Every clustering model is visualized on an interactive world map. The colors rep
 * ⚪ **No Data**
 
 These maps provide intuitive, visual insight into the global economic conditions.
+### 1. K-Means Clustering
+
+![K-Means Plot](Clustering%20Countries/kmeansplot.png)
+
+[![Interactive Map](https://img.shields.io/badge/🌍%20Click%20to%20Open-Interactive%20Map-blue?style=for-the-badge)](https://htmlpreview.github.io/?https://github.com/uksipahioglu/Clustering-Countries-by-Funding-Status/blob/main/Clustering%20Countries/kmeans_map.html)
+
+### 2. Agglomerative Hierarchical Clustering
+
+![Agglomerative Clustering Plot](Clustering%20Countries/Aggplot.png)
+
+
+Explore the map interactively:
+[![Interactive Map](https://img.shields.io/badge/🌍%20Click%20to%20Open-Interactive%20Map-blue?style=for-the-badge)](https://htmlpreview.github.io/?https://github.com/uksipahioglu/Clustering-Countries-by-Funding-Status/blob/main/Clustering%20Countries/agg_map.html)
+
+
+### 3. DBSCAN (Density-Based Spatial Clustering)
+
+![DBSCAN Clustering Plot](Clustering%20Countries/dbscanplot.png)
+
+
+Explore the map interactively:
+[![Interactive Map](https://img.shields.io/badge/🌍%20Click%20to%20Open-Interactive%20Map-blue?style=for-the-badge)](https://htmlpreview.github.io/?https://github.com/uksipahioglu/Clustering-Countries-by-Funding-Status/blob/main/Clustering%20Countries/dbscan_map.html)
+
+
+### 4. HDBSCAN (Hierarchical DBSCAN)
+
+![HDBSCAN Clustering Plot](Clustering%20Countries/hdbscanplot.png)
+
+
+Explore the map interactively:
+[![Interactive Map](https://img.shields.io/badge/🌍%20Click%20to%20Open-Interactive%20Map-blue?style=for-the-badge)](https://htmlpreview.github.io/?https://github.com/uksipahioglu/Clustering-Countries-by-Funding-Status/blob/main/Clustering%20Countries/hdbscan_map.html)
+
+
 
 ## 🏆 Silhouette Score Comparison
 All models are scored using **Silhouette metrics**, and results are visualized in a comparison bar chart.
 
-![Silhouette Score Comparison](silhouette_comparison.png)
+![Silhouette Score Comparison](https://github.com/uksipahioglu/Clustering-Countries-by-Funding-Status/blob/main/Clustering%20Countries/comparisonplot.png)
+
+
 
 * **Higher score** → Better cluster separation.
 * This metric helps identify the most meaningful algorithm for this specific dataset.
