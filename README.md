@@ -9,20 +9,20 @@ The analysis includes preprocessing, visualization, dimensionality reduction, cl
 📌 Project Objectives
 
 **Explore the dataset with histograms and correlation analysis**
-*Normalize numeric features using MinMaxScaler**
-*Apply PCA for dimensionality reduction**
-*Perform clustering with:**
-      **KMeans**
-      **Agglomerative Clustering**
-      **DBSCAN**
-      **HDBSCAN**
-**Compare all models using Silhouette Scores**
-**Visualize cluster outputs on a world choropleth map**
-**Identify groups:**
-      **Budget Needed**
-      **In Between**
-      **No Budget Needed**
-      **Noise / No Data**
+* **Normalize numeric features using MinMaxScaler**
+* **Apply PCA for dimensionality reduction**
+* **Perform clustering with:**
+    *  **KMeans**
+    *  **Agglomerative Clustering**
+    *  **DBSCAN**
+    *  **HDBSCAN**
+* **Compare all models using Silhouette Scores**
+* **Visualize cluster outputs on a world choropleth map**
+* **Identify groups:**
+    *  **Budget Needed**
+    *  **In Between**
+    *  **No Budget Needed**
+    *  **Noise / No Data**
 
 ## 📁 Dataset
 The dataset includes key macro-economic indicators. Each country is represented by a single row of numeric features:
