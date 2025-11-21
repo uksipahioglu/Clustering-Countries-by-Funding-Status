@@ -1,25 +1,28 @@
 # 🌍 Unsupervised Clustering on Country Development Indicators
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat&logo=python)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Unsupervised-green)
-![Visualization](https://img.shields.io/badge/Visualization-Plotly%20%7C%20Seaborn-orange)
+PCA • KMeans • Agglomerative • DBSCAN • HDBSCAN • Choropleth Maps
 
-## 📖 Project Overview
-This project applies multiple unsupervised learning algorithms to the **Country Development Dataset** to identify patterns related to economic and social development. By analyzing macro-economic indicators, the project aims to categorize countries based on their funding needs.
-
-The workflow includes extensive **EDA (Exploratory Data Analysis)**, **preprocessing**, **dimensionality reduction (PCA)**, **clustering**, and **interactive global mapping**.
+This project applies multiple unsupervised learning algorithms to the Country Development Dataset to identify patterns related to economic and social development.
+The analysis includes preprocessing, visualization, dimensionality reduction, clustering, and global mapping.
 
 ## 📌 Project Objectives
-* [x] Explore the dataset with histograms and correlation analysis.
-* [x] Normalize numeric features using `MinMaxScaler`.
-* [x] Apply **PCA** for dimensionality reduction.
-* [x] Perform clustering using four different algorithms.
-* [x] Compare all models using **Silhouette Scores**.
-* [x] Visualize cluster outputs on a world choropleth map.
-* [x] Categorize countries into:
-    * **Budget Needed**
-    * **In Between**
-    * **No Budget Needed**
+📌 Project Objectives
+
+*Explore the dataset with histograms and correlation analysis
+*Normalize numeric features using MinMaxScaler
+*Apply PCA for dimensionality reduction
+*Perform clustering with:
+      *KMeans
+      *Agglomerative Clustering
+      *DBSCAN
+      *HDBSCAN
+*Compare all models using Silhouette Scores
+*Visualize cluster outputs on a world choropleth map
+*Identify groups:
+      *Budget Needed
+      *In Between
+      *No Budget Needed
+      *Noise / No Data
 
 ## 📁 Dataset
 The dataset includes key macro-economic indicators. Each country is represented by a single row of numeric features:
