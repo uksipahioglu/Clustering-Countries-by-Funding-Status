@@ -71,11 +71,16 @@ These maps provide intuitive, visual insight into the global economic conditions
 
 ![K-Means Plot](Clustering%20Countries/kmeansplot.png)
 
+
+
+
 [![Interactive Map](https://img.shields.io/badge/🌍%20Click%20to%20Open-Interactive%20Map-blue?style=for-the-badge)](https://htmlpreview.github.io/?https://github.com/uksipahioglu/Clustering-Countries-by-Funding-Status/blob/main/Clustering%20Countries/kmeans_map.html)
 
 ### 2. Agglomerative Hierarchical Clustering
 
 ![Agglomerative Clustering Plot](Clustering%20Countries/Aggplot.png)
+
+
 
 
 Explore the map interactively:
@@ -87,6 +92,8 @@ Explore the map interactively:
 ![DBSCAN Clustering Plot](Clustering%20Countries/dbscanplot.png)
 
 
+
+
 Explore the map interactively:
 [![Interactive Map](https://img.shields.io/badge/🌍%20Click%20to%20Open-Interactive%20Map-blue?style=for-the-badge)](https://htmlpreview.github.io/?https://github.com/uksipahioglu/Clustering-Countries-by-Funding-Status/blob/main/Clustering%20Countries/dbscan_map.html)
 
@@ -94,6 +101,8 @@ Explore the map interactively:
 ### 4. HDBSCAN (Hierarchical DBSCAN)
 
 ![HDBSCAN Clustering Plot](Clustering%20Countries/hdbscanplot.png)
+
+
 
 
 Explore the map interactively:
