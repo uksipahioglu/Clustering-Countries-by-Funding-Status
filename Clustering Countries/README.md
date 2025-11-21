@@ -60,13 +60,16 @@ The following algorithms were trained and compared to find the best fit:
 ## 🗺️ Global Choropleth Maps
 Every clustering model is visualized on an interactive world map. The colors represent the calculated status of each country:
 
-* 🟥 **Budget Needed** (High urgency)
-* 🟨 **In Between** (Developing)
-* 🟩 **No Budget Needed** (Developed)
+* 🟥 **Budget Needed** (Countries requiring immediate financial assistance)
+* 🟨 **In Between** (Developing countries)
+* 🟩 **No Budget Needed** (Developed countries)
 * ⬛ **Noise** (Outliers detected by DBSCAN/HDBSCAN)
 * ⚪ **No Data**
 
 These maps provide intuitive, visual insight into the global economic conditions.
+
+***⚡ Tip:** Click the **"Interactive Map"** buttons located below each static image to view and explore the interactive, zoomable versions.**
+
 ### 1. K-Means Clustering
 
 ![K-Means Plot](https://github.com/uksipahioglu/Clustering-Countries-by-Funding-Status/blob/main/Clustering%20Countries/kmeansplot.png)
@@ -84,7 +87,6 @@ These maps provide intuitive, visual insight into the global economic conditions
 
 
 
-Explore the map interactively:
 [![Interactive Map](https://img.shields.io/badge/🌍%20Click%20to%20Open-Interactive%20Map-blue?style=for-the-badge)](https://htmlpreview.github.io/?https://github.com/uksipahioglu/Clustering-Countries-by-Funding-Status/blob/main/Clustering%20Countries/agg_map.html)
 
 
@@ -95,7 +97,6 @@ Explore the map interactively:
 
 
 
-Explore the map interactively:
 [![Interactive Map](https://img.shields.io/badge/🌍%20Click%20to%20Open-Interactive%20Map-blue?style=for-the-badge)](https://htmlpreview.github.io/?https://github.com/uksipahioglu/Clustering-Countries-by-Funding-Status/blob/main/Clustering%20Countries/dbscan_map.html)
 
 
@@ -106,7 +107,6 @@ Explore the map interactively:
 
 
 
-Explore the map interactively:
 [![Interactive Map](https://img.shields.io/badge/🌍%20Click%20to%20Open-Interactive%20Map-blue?style=for-the-badge)](https://htmlpreview.github.io/?https://github.com/uksipahioglu/Clustering-Countries-by-Funding-Status/blob/main/Clustering%20Countries/hdbscan_map.html)
 
 
