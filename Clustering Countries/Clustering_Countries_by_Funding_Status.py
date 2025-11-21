@@ -135,8 +135,8 @@ combined_df["Country"] = combined_df["Country"].replace({
     "Korea, Dem. Rep." : "South Korea"
     })
 # %%
-#import plotly.io as pio
-#pio.renderers.default = "browser"
+import plotly.io as pio
+pio.renderers.default = "browser"
 # %%
 fig=px.choropleth(
     combined_df,
@@ -387,6 +387,7 @@ plt.show()
     
     
     
+
 
 
 
